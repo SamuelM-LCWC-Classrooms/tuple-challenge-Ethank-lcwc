@@ -7,3 +7,5 @@ def task():
     grade = (name , sub , score)
 
     return grade
+
+
