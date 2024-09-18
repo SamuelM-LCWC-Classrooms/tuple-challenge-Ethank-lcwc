@@ -4,7 +4,7 @@ def task():
     name = input("student name \n")
     sub = input("subject studied \n")
     score = int(input("test score \n"))
-    grade = (name , sub , score)
+    grade = (name , sub , score) #test
 
     return grade
 
